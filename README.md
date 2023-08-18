@@ -26,8 +26,8 @@ This Python project is designed to generate mask projections from image data. Th
     numspfreqcomp = 300
     numOfImg = 499
     lambda_ = cwater / freq
-    h = 0.03
-    distance = dist
+    h = 0.03 (distance between each acoustic source or pixel in our picture)
+    distance = 0.15 (distance between receiver and acoustic source)
     inter_d = h / 32 / lambda_
 
     name = 'size_'+str(h)+'m_inter_'+str(inter_d)+'_lambda_dis_'+str(distance)+'m_feq_'+str(freq)+'hz_water' <pre>
