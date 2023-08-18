@@ -8,7 +8,7 @@ This Python project is designed to generate mask projections from image data. Th
 
 - Python 3.11 or higher
 - Libraries: NumPy, SciPy, PyTorch, Pillow (PIL), Torch
-- Dataset: Mnist(binary version is used in this project, please see test_label_binary and train_label_binary)
+- Dataset: Mnist(binary version is used in this project, please see test_label_binary and train_label_binary in train-test-label-binary.zip file, please unzip two folder to the current directory)
 
 ## Run it
 - Open cmd, navigate to the script's directory, and then:
