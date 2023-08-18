@@ -12,9 +12,9 @@ This Python project is designed to generate mask projections from image data. Th
 
 ## Run it
 - Open cmd, navigate to the script's directory, and then:
-- <pre>```python generator_mask_projection.py```<pre>
+- <pre> ```python generator_mask_projection.py```<pre>
 - or you can create a Jupyter notebook under the same directory as generator_mask_projection.py and other .py files  then:
--<pre> ```%run generator_mask_projection.py```<pre>
+- <pre> ```%run generator_mask_projection.py```<pre>
 
 
 ## License
