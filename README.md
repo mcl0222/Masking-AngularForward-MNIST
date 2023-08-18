@@ -11,8 +11,10 @@ This Python project is designed to generate mask projections from image data. Th
 - Dataset: Mnist(binary version is used in this project, please see test_label_binary and train_label_binary)
 
 ## Run it
-- Open cmd, navigate to the script's directory, and then: python generator_mask_projection.py
-- or you can create a Jupyter notebook under the same directory as generator_mask_projection.py and other .py files  then: %run generator_mask_projection.py
+- Open cmd, navigate to the script's directory, and then:
+  python generator_mask_projection.py
+- or you can create a Jupyter notebook under the same directory as generator_mask_projection.py and other .py files  then:
+  %run generator_mask_projection.py
 
 
 ## License
