@@ -15,6 +15,22 @@ This Python project is designed to generate mask projections from image data. Th
 - <pre> python generator_mask_projection.py<pre>
 - or you can create a Jupyter notebook under the same directory as generator_mask_projection.py and other .py files  then:
 - <pre> run generator_mask_projection.py<pre>
+- It will produce a directory called "size_[]m_inter_[]_lambda_dis_[]m_feq_[]hz_water" under the current directory, where [] depends on your parameter setup in generator_mask_projection.py
+-   <pre> dist = 0.15
+    masking_size = 2
+    masking_p = [10, 20]
+    start_time = time.time()
+    
+    cwater = 1500
+    freq = 200000
+    numspfreqcomp = 300
+    numOfImg = 499
+    lambda_ = cwater / freq
+    h = 0.03
+    distance = dist
+    inter_d = h / 32 / lambda_
+
+    name = 'size_'+str(h)+'m_inter_'+str(inter_d)+'_lambda_dis_'+str(distance)+'m_feq_'+str(freq)+'hz_water' <pre>
 
 
 ## License
