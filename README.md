@@ -33,6 +33,8 @@ This Python project is designed to generate mask projections from image data. Th
     name = 'size_'+str(h)+'m_inter_'+str(inter_d)+'_lambda_dis_'+str(distance)+'m_feq_'+str(freq)+'hz_water' <pre>
 - Waiting for 30 min, dataset will probably be ready, and you will see:
 - <pre> FINISHED! Yahoo! total time:  <pre>
+- Then in order to use https://github.com/happyharrycn/unet_acoustic_imaging, we need to convert .png file to .pkl files, simply run all cells in folder-npy-pkl.ipynb file you will get the test_data.pkl and train_data.pkl, and we are all set!
+
 
 ## License
 
