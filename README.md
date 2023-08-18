@@ -42,5 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- [Chu Ma Research Group](<[link_to_the_group_page](https://ma.ece.wisc.edu/)>)
-- [Mnist Dataset Source](<[link_to_the_dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)https://www.kaggle.com/datasets/hojjatk/mnist-dataset>)
+- [Chu Ma Research Group](<https://ma.ece.wisc.edu/>)
+- [Mnist Dataset Source](<https://www.kaggle.com/datasets/hojjatk/mnist-dataset>)
