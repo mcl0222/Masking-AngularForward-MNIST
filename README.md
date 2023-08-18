@@ -31,7 +31,8 @@ This Python project is designed to generate mask projections from image data. Th
     inter_d = h / 32 / lambda_
 
     name = 'size_'+str(h)+'m_inter_'+str(inter_d)+'_lambda_dis_'+str(distance)+'m_feq_'+str(freq)+'hz_water' <pre>
-
+- Waiting for 30 min, dataset will probably be ready, and you will see:
+- <pre> FINISHED! Yahoo! total time:  <pre>
 
 ## License
 
